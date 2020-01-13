@@ -1,1 +1,2 @@
-git is fun
+git is fun ...
+Git is free ware.
